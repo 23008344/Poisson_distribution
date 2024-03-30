@@ -1,7 +1,7 @@
 ### NAME : VARNIKA.P
 ### REG. NO.:212223240170
 
-# Fitting Poisson  distribution
+# EX:2 Fitting Poisson  distribution
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
